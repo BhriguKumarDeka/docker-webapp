@@ -1,6 +1,7 @@
 # Docker Test Web App (Demo)
 
 [![Docker Hub](https://img.shields.io/badge/docker-pull-blue.svg?logo=docker)](https://hub.docker.com/r/bhrigukd/webapp)
+[![Release](https://img.shields.io/github/v/release/BhriguKumarDeka/docker-webapp)](https://github.com/BhriguKumarDeka/docker-webapp/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A lightweight Node.js/Express web application designed specifically for **testing Docker pulls and container connectivity**. Much like the `nginx` welcome page, this image provides a simple confirmation that your Docker environment is set up correctly.
